@@ -1,0 +1,33 @@
+
+;; ----- smex-history -----
+(
+ package-list-packages
+ helm-M-x
+ package-menu-refresh
+ load-theme
+ smex
+ magit-status
+ org-agenda
+)
+
+;; ----- smex-data -----
+(
+ (company-mode . 2)
+ (package-list-packages . 20)
+ (python-mode . 2)
+ (run-python . 5)
+ (org-agenda . 2)
+ (maximize-window . 1)
+ (hide-other . 1)
+ (youdao-dictionary-search . 6)
+ (counsel-ag . 6)
+ (ibus-enable . 1)
+ (magit-log . 1)
+ (magit-show . 3)
+ (magit-status . 4)
+ (magit-tag . 1)
+ (load-theme . 7)
+ (smex . 1)
+ (package-menu-refresh . 2)
+ (helm-M-x . 1)
+)
